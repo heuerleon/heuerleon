@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey <img src="https://tenor.com/fdkKo84QsYn.gif" width="30px">, I'm Leon
 
 <!--
 **Hakuyamu/Hakuyamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
