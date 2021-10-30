@@ -1,4 +1,4 @@
-### Hey <img src="https://raw.githubusercontent.com/Hakuyamu/Hakuyamu/master/waving-hand-get-greeting.gif" width="30px">, I'm Leon
+### Hey <img src="https://raw.githubusercontent.com/Hakuyamu/Hakuyamu/master/greeting.gif" width="30px">, I'm Leon
 
 <!--
 **Hakuyamu/Hakuyamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
