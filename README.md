@@ -1,5 +1,5 @@
-<img src="https://raw.githubusercontent.com/Hakuyamu/Hakuyamu/master/greeting.gif" width="50px">
-### Hey, I'm Leon
+[![Header](https://raw.githubusercontent.com/Hakuyamu/Hakuyamu/master/greeting.gif Header)]
+# Hey, I'm Leon
 
 <!--
 **Hakuyamu/Hakuyamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
