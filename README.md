@@ -3,6 +3,9 @@ That's how you say hello in my homeland, northern Germany. I'm 16 years old and 
 
 ## About me
 Programming has been my passion since I was only 11 years old. Currently, I'm working on the Minecraft server https://skycave.de, where I mainly write plugins in Java and Kotlin.
+
+## GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hakuyamu)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Hakuyamu/Hakuyamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
