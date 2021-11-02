@@ -18,6 +18,7 @@ Programming has been my passion since I was only 11 years old. Currently, I'm wo
 ![](https://img.shields.io/badge/-Git-C34128?style=for-the-badge&logo=git&labelColor=black)
 ![](https://img.shields.io/badge/-GitHub-6B2A86?style=for-the-badge&logo=github&labelColor=black)
 ![](https://img.shields.io/badge/-IntelliJ-5373D6?style=for-the-badge&logo=intellijidea&labelColor=black)
+![](https://img.shields.io/badge/-PyCharm-21D78A?style=for-the-badge&logo=pycharm&labelColor=black)
 ![](https://img.shields.io/badge/-VSCode-3080B6?style=for-the-badge&logo=visualstudiocode&labelColor=black)
 ![](https://img.shields.io/badge/-NPM-CB0000?style=for-the-badge&logo=npm&labelColor=black)
 ![](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&labelColor=black)
