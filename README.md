@@ -26,7 +26,7 @@ Programming has been my passion since I was only 11 years old. Currently, I'm wo
 ![](https://img.shields.io/badge/-Maven-C8203C?style=for-the-badge&logo=apache&labelColor=black)
 
 ## GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hakuyamu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hakuyamu&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Pins
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakuyamu&repo=lts-website&show_owner=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
