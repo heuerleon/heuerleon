@@ -28,6 +28,10 @@ Programming has been my passion since I was only 11 years old. Currently, I'm wo
 ## GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hakuyamu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## Pins
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakuyamu&repo=lts-website&show_owner=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakuyamu&repo=lts-backend&show_owner=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Hakuyamu/Hakuyamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
