@@ -22,6 +22,7 @@ Programming has been my passion since I was only 11 years old. Currently, I'm wo
 ![](https://img.shields.io/badge/-VSCode-3080B6?style=for-the-badge&logo=visualstudiocode&labelColor=black)
 ![](https://img.shields.io/badge/-NPM-CB0000?style=for-the-badge&logo=npm&labelColor=black)
 ![](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&labelColor=black)
+![](https://img.shields.io/badge/-PostgreSQL-203471?style=for-the-badge&logo=postgresql&labelColor=black)
 ![](https://img.shields.io/badge/-Gradle-02303A?style=for-the-badge&logo=gradle&labelColor=black)
 ![](https://img.shields.io/badge/-Maven-C8203C?style=for-the-badge&logo=apache&labelColor=black)
 
