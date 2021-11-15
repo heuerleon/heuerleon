@@ -10,9 +10,9 @@ Programming has been my passion since I was only 11 years old. Currently, I'm wo
 ![](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&labelColor=black)
 ![](https://img.shields.io/badge/-Python-306795?style=for-the-badge&logo=python&labelColor=black)
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=black)
+![](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&labelColor=black)
 ### Frameworks
 ![](https://img.shields.io/badge/-React-49A4BD?style=for-the-badge&logo=react&labelColor=black)
-![](https://img.shields.io/badge/-Vue-4AB484?style=for-the-badge&logo=vue.js&labelColor=black)
 ![](https://img.shields.io/badge/-Svelte-D03200?style=for-the-badge&logo=svelte&labelColor=black)
 ### Tools & Technologies
 ![](https://img.shields.io/badge/-Git-C34128?style=for-the-badge&logo=git&labelColor=black)
