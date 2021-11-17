@@ -11,9 +11,10 @@ Programming and computers are my passion since I was 11 y/o. I'm a hobby web dev
 ![](https://img.shields.io/badge/-Python-306795?style=for-the-badge&logo=python&labelColor=black)
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=black)
 ![](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&labelColor=black)
-### Frameworks
+### Web development
 ![](https://img.shields.io/badge/-React-49A4BD?style=for-the-badge&logo=react&labelColor=black)
 ![](https://img.shields.io/badge/-Svelte-D03200?style=for-the-badge&logo=svelte&labelColor=black)
+![](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&labelColor=black)
 ### Tools & Technologies
 ![](https://img.shields.io/badge/-Git-C34128?style=for-the-badge&logo=git&labelColor=black)
 ![](https://img.shields.io/badge/-GitHub-6B2A86?style=for-the-badge&logo=github&labelColor=black)
