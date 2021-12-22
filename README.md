@@ -4,43 +4,17 @@ That's how you say hello in my homeland, northern Germany. I'm 16 years old and 
 ## About me
 Programming and computers are my passion since I was 11 y/o. I'm a hobby web developer and unsalaried game developer for SkyCave.de, where I write Minecraft plugins in Java & Kotlin. My current interests are App development, messaging services and Java backend technologies.
 
-## Skills
-### Programming & Scripting Languages
-![](https://img.shields.io/badge/-Java-E3B55B?style=for-the-badge&logo=java&labelColor=black)
-![](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&labelColor=black)
-![](https://img.shields.io/badge/-Python-306795?style=for-the-badge&logo=python&labelColor=black)
-![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=black)
-![](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&labelColor=black)
-### Web development
-![](https://img.shields.io/badge/-React-49A4BD?style=for-the-badge&logo=react&labelColor=black)
-![](https://img.shields.io/badge/-Svelte-D03200?style=for-the-badge&logo=svelte&labelColor=black)
-![](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&labelColor=black)
-### Tools & Technologies
-![](https://img.shields.io/badge/-Git-C34128?style=for-the-badge&logo=git&labelColor=black)
-![](https://img.shields.io/badge/-GitHub-6B2A86?style=for-the-badge&logo=github&labelColor=black)
-![](https://img.shields.io/badge/-IntelliJ-5373D6?style=for-the-badge&logo=intellijidea&labelColor=black)
-![](https://img.shields.io/badge/-PyCharm-21D78A?style=for-the-badge&logo=pycharm&labelColor=black)
-![](https://img.shields.io/badge/-VSCode-3080B6?style=for-the-badge&logo=visualstudiocode&labelColor=black)
-![](https://img.shields.io/badge/-NPM-CB0000?style=for-the-badge&logo=npm&labelColor=black)
-![](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&labelColor=black)
-![](https://img.shields.io/badge/-PostgreSQL-203471?style=for-the-badge&logo=postgresql&labelColor=black)
-![](https://img.shields.io/badge/-Gradle-02303A?style=for-the-badge&logo=gradle&labelColor=black)
-![](https://img.shields.io/badge/-Maven-C8203C?style=for-the-badge&logo=apache&labelColor=black)
+### Working on
+- A simple messenger called "WhatsFlat"
+- My portfolio website
+
+### Learning
+- ElectronJS
+- PostgreSQL
+
+### Interested in
+- Writing Android Apps using Kotlin
+- Cryptography (creating an own password manager some day)
 
 ## GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heuerleon&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**Hakuyamu/Hakuyamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
