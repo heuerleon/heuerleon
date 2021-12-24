@@ -5,7 +5,7 @@ That's how you say hello in my homeland, northern Germany. I'm 16 years old and 
 Programming and computers are my passion since I was 11 y/o. I'm a hobby web developer and unsalaried game developer for SkyCave.de, where I write Minecraft plugins in Java & Kotlin. My current interests are App development, messaging services and Java backend technologies.
 
 #### 🔨 Working on
-- A simple messenger called "Briefly"
+- A simple messenger called "WhatsFlat"
 - My portfolio website
 
 ### 📖 Learning
