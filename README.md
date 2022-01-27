@@ -7,13 +7,12 @@ Programming and computers are my passion since I was 11 y/o. I'm a hobby web dev
 <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heuerleon&layout=compact&theme=dark"/>
 
 ### 🔨 Working on
-- A simple messenger called "WhatsFlat"
+- A password manager
 - My portfolio website
 
 ### 📖 Learning
-- ElectronJS
-- PostgreSQL
+- SQL
 
 ### 💭 Interested in
 - Writing Android Apps using Kotlin
-- Cryptography (creating an own password manager some day)
+- Cryptography
