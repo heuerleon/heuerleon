@@ -9,9 +9,12 @@ Programming and computers are my passion since I was 11 y/o. I'm a hobby web dev
 ### 🔨 Working on
 - A password manager
 - My portfolio website
+- Recreating the video game [Valorant](https://playvalorant.com/) in Minecraft
+- An app called [Flurence](https://github.com/Flurence)
 
 ### 📖 Learning
 - SQL
+- C#
 
 ### 💭 Interested in
 - Writing Android Apps using Kotlin
