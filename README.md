@@ -9,8 +9,6 @@ Programming and computers have been my passion since I was 11 y/o. I'm a hobby w
 ### 🔨 Working on
 - A password manager
 - My portfolio website
-- Recreating the video game [Valorant](https://playvalorant.com/) in Minecraft
-- An app called [Flurence](https://github.com/Flurence)
 
 ### 📖 Learning
 - SQL
