@@ -7,12 +7,11 @@ Programming and computers have been my passion since I was 10 years old. I'm a s
 <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heuerleon&layout=compact&theme=dark"/>
 
 ### 🔨 Working on
-- A password manager
-- A backup solution for the game osu!
-- My portfolio website
+- A chat app called whatsflat
+- An upgradeable spawner system for SkyCave
 
 ### 📖 Learning
-- C#
+- Kotlin
 - React
 
 ### 💭 Interested in
