@@ -8,7 +8,7 @@ Programming and computers have been my passion since I was 10 years old. I'm a s
 
 ### 🔨 Working on
 - A backup solution for the game osu!
-- The hardcore game mode on SkyCave
+- WhatsFlat
 
 ### 📖 Learning
 - C#
@@ -16,4 +16,4 @@ Programming and computers have been my passion since I was 10 years old. I'm a s
 
 ### 💭 Interested in
 - Linux
-- Cryptography
+- iOS/Swift
