@@ -7,4 +7,4 @@ In my free time, I write Minecraft plugins for [SkyCave](https://github.com/skyc
 ### 🔨 Working on
 - SkyCave
 - My portfolio
-- OTTO payments
+- Product recommendation systems for OTTO
